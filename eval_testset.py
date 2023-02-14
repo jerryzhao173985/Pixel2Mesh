@@ -15,6 +15,7 @@
 # limitations under the License.
 #
 import os, sys
+import pickle
 import tensorflow as tf
 from pixel2mesh.models import GCN
 from pixel2mesh.fetcher import *

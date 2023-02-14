@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 import numpy as np
-import cPickle as pickle
+import pickle
 import threading
 import Queue
 import sys
